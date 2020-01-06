@@ -3,3 +3,4 @@ add a test
 add another test
 test fetch
 test fetch and merge
+test fetch and merge default
